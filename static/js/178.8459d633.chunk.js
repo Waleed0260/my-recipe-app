@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_recipe_app=self.webpackChunkmy_recipe_app||[]).push([[178],{4259:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});n(6167);var c=n.p+"static/media/loading.62ac7a387c312a695d9c.gif",i=n(7878),a=function(){return(0,i.jsx)("div",{style:{display:"flex",justifyContent:"center",alignItems:"center"},children:(0,i.jsx)("img",{src:c,alt:""})})}}}]);
+//# sourceMappingURL=178.8459d633.chunk.js.map
